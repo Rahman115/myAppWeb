@@ -1,0 +1,8 @@
+<h1>Nama Angkatan Argajaladri</h1>
+
+<ul *ngIf="angkatan">
+  <li *ngFor="let item of angkatan">
+    <a routerLink="/angkatan/{{item.tahun}}">{{item.angkatan}}</a>
+    
+  </li>
+</ul>

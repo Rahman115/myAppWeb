@@ -1,0 +1,13 @@
+<h1>Agenda Pengurus</h1>
+<ul *ngIf="agenda">
+    <li *ngFor="let item of agenda" class="list">
+        {{ item.posisi }}
+        <ul *ngIf="item.kegiatan">
+            <li *ngFor="let i of item.kegiatan" class="subList">
+                {{i.subKegiatan}} 
+                <!-- ( {{ i.pelaksanaan }} ) -->
+                
+            </li>
+        </ul>
+    </li>
+</ul>

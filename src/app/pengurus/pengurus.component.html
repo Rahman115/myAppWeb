@@ -1,0 +1,11 @@
+<h1>Pengurus Argajaladri</h1>
+<div *ngIf="pengurus">
+  <div *ngFor="let item of pengurus">
+    {{ item.posisi }}
+    <ul *ngIf="item.user">
+      <li *ngFor="let user of item.user">
+        {{ user.id }}
+      </li>
+    </ul>
+  </div>
+</div>

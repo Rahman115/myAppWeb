@@ -1,0 +1,127 @@
+[
+    {
+		
+        "posisi": "DPO",
+        "user": [
+            {
+                "id": 231,
+                "sebagai": "Koordinator"
+            },
+            {
+                "id": 210,
+                "sebagai": "Anggota"
+            },
+            {
+                "id": 211,
+                "sebagai": "Anggota"
+            },
+            {
+                "id": 224,
+                "sebagai": "Anggota"
+            }
+        ],
+        "moto": "mm"
+    },
+    {
+		
+        "posisi": "Ketua Umum",
+        "user": [
+            {
+                "id": 241,
+                "sebagai": "Ketua Umum Argajaladri"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+	
+        "posisi": "Sekretaris Umum",
+        "user": [
+            {
+                "id": 242,
+                "sebagai": "Sekretaris Umum Argajaladri"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+	
+        "posisi": "Bendahara Umum",
+        "user": [
+            {
+                "id": 240,
+                "sebagai": "Bendahara Umum Argajaladri"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "Bidang I",
+        "user": [
+            {
+                "id": 246,
+                "sebagai": "Ketua Bidang"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "Bidang II",
+        "user": [
+            {
+                "id": 235,
+                "sebagai": "Ketua Bidang"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "Bidang III - Rumah Tangga",
+        "user": [
+            {
+                "id": 234,
+                "sebagai": "Ketua Bidang"
+                },
+                {
+                    "id": 243,
+                    "sebagai": "Staf"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "Bursa",
+        "user": [
+            {
+                "id": 239,
+                "sebagai": "Koordinator"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "SAR",
+        "user": [
+            
+            {
+                "id": 240,
+                "sebagai": "Koordinator"
+                }
+        ],
+        "moto": "mm"
+    },
+    {
+        "posisi": "Pendidikan dak Kaderisasi",
+        "user": [
+            {
+                "id": 241,
+                "sebagai": "Koordonator"
+            },
+            {
+                "id": 242,
+                "sebagai": "Staf"
+            }
+        ],
+        "moto": "mm"
+    }
+]

@@ -1,0 +1,25 @@
+ul {
+    background: rgb(238, 238, 238);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li{
+        // background: rgb(23, 238, 238);
+        padding: 2em;
+        border-radius: 7px;
+        margin-bottom: 4px;
+        display: grid;
+    }
+}
+
+.subList {
+    background: rgb(238, 70, 100);
+    grid-template-columns: 500px auto;
+    
+}
+
+p {
+    color: aqua;
+    font-size: .8em;
+}

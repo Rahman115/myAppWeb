@@ -1,0 +1,17 @@
+<h1>Anggota Argajaladri</h1>
+
+<div *ngIf="angkatan">
+ <strong>{{ angkatan['angkatan'] }}</strong>
+ 
+ {{ angkatan.arti }}
+</div>
+
+<div *ngIf="metaAnggota">
+  <ul>
+    <li *ngFor="let item of metaAnggota">
+        <img src="assets/image/background.png">
+      <!-- <strong> {{ item.no_induk }} </strong> ~  -->
+      <p>{{ item.nama }}</p>
+    </li>
+  </ul>
+</div>
